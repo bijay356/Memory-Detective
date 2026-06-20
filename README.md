@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/app_logo.png" width="200" alt="Memory Detective Logo">
+</p>
+
 # Memory Detective
 
 Memory Detective is a professional Flutter Android app designed as an offline brain-training game. It features a complete suite of memory mini-games with a sleek spy agency aesthetic. The app utilizes Riverpod for state management, Hive for offline local storage, and Google Mobile Ads (AdMob) for monetization.
